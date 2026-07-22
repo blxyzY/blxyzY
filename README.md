@@ -17,9 +17,7 @@ I'm a developer focused on Android kernel development and custom ROMs. Passionat
 
 | Device | Codename | Status |
 |--------|----------|--------|
-| Samsung Galaxy A23 5G | a23q | ✅ Active |
-| Samsung Galaxy A23 | a23 | ✅ Active |
-| Samsung Galaxy A22 | a22x | ✅ Active |
+| Samsung Galaxy A23 | a23 | Active |
 
 ## 📦 Projects
 
@@ -34,7 +32,7 @@ GitHub Actions workflow for building Android kernels with AnyKernel3 support.
 
 ## 📫 Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xlvyprjkt)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/xlvy_10)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/blxyzY)
 
 ---
