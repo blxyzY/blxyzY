@@ -20,8 +20,7 @@
 
 <div id="stats" align="center">
 
-![badge](https://komarev.com/ghpvc/?username=blxyzY&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true)
-![](https://hit.yhype.me/github/profile?user_id=blxyzY)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=Android+Kernel+Developer;Building+kernel+for+Samsung+A23;KernelSU+%7C+LTO+%7C+Clang+Optimization)](https://git.io/typing-svg)
 
 </div>
 
