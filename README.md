@@ -21,7 +21,7 @@
 <div id="stats" align="center">
 
 ![badge](https://komarev.com/ghpvc/?username=blxyzY&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true)
-![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+![](https://hit.yhype.me/github/profile?user_id=blxyzY)
 
 </div>
 
@@ -66,6 +66,3 @@
 - 📱 Android Development
 - 🐧 Linux Systems
 
-### 🦖 Fun Ending:
-👋 Thanks for stopping by!  
-P.S. The kernel is more stable than my sleep schedule.
