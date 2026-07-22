@@ -32,7 +32,7 @@
 </div>
 <div id="view" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=AI+%2F+Machine+Learning+Engineer;Data+Scientist;Deep+Learning+Enthusiast;Python+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=Noob+Dev+Kernel+A23)](https://git.io/typing-svg)
 <h1>
   Hi.I'M Iqbal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
