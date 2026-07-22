@@ -3,26 +3,10 @@
 </div>
 <div id="badges"align="center">
 
-  <a href="https://www.linkedin.com/in/ahmed-abdulsalam1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:3bsalam0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@3bsalam0">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-    </a>
-  <a href="https://www.kaggle.com/ahmedmohamedab">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/3bsalam.1">
-    <img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram" />
-  </a>
-  <a href="https://www.facebook.com/3BSALAM.Alien">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  
+<a href="https://t.me/lvxy_10">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
 </div>
 <div id="header1" align="center">
   
