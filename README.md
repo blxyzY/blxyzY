@@ -1,18 +1,5 @@
 # 👋 Hi, I'm iqbal
 
-## 🚀 About Me
-
-I'm a developer focused on Android kernel development and custom ROMs. Passionate about optimizing performance and exploring low-level system internals.
-
-## 🔧 Skills
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
 ## 📱 Devices
 
 | Device | Codename | Status |
