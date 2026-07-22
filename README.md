@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/dino.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm xlvy</h1>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🦕 **About Me**
+## 🦖 **About Me**
 
 I'm a developer focused on Android kernel development and custom ROMs. Passionate about optimizing performance and exploring low-level system internals.
 
@@ -20,7 +20,7 @@ I'm a developer focused on Android kernel development and custom ROMs. Passionat
 - 🌱 I'm currently learning **KernelSU & LTO Optimization**
 - 👯 I'm looking to collaborate on **Android Kernel Projects**
 - 💬 Ask me about **Kernel building, Clang, AnyKernel3**
-- ⚡ Fun fact: **I love dinosaurs! 🦕**
+- ⚡ Fun fact: **I love Chrome Dino! 🦖**
 
 ---
 
@@ -75,10 +75,10 @@ GitHub Actions workflow for building Android kernels with AnyKernel3 support.
 
 ---
 
-## 🦕 **Dino Animation**
+## 🦖 **Chrome Dino Animation**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/dino.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="400" />
 </p>
 
 ---
@@ -100,11 +100,11 @@ GitHub Actions workflow for building Android kernels with AnyKernel3 support.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/dino.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="100" />
   <br />
   <i>"Keep coding, keep learning, keep growing!"</i>
   <br />
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/dino.gif" width="100" />
+  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="100" />
 </p>
 
 ---
