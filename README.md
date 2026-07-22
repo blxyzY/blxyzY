@@ -6,14 +6,11 @@
   
 ### 🔗 Connect With Me
 
-<a href="https://t.me/xlvyprjkt" target="_blank">
+<a href="https://t.me/lvxy_10" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram logo"/>
 </a>
 <a href="https://github.com/blxyzY" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo"/>
-</a>
-<a href="https://x.com/xlvyprjkt" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="twitter logo"/>
 </a>
 
 </div>
