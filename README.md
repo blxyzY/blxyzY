@@ -1,82 +1,55 @@
-```zsh
-➜ neofetch
-```
+<div id="header" align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" height=170 />
+</div>
+<div id="badges"align="center">
 
-<img align="left" src="img/eva.png" width="210px"/> 
+  <a href="https://www.linkedin.com/in/ahmed-abdulsalam1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:3bsalam0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@3bsalam0">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+    </a>
+  <a href="https://www.kaggle.com/ahmedmohamedab">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/3bsalam.1">
+    <img src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.facebook.com/3BSALAM.Alien">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+</div>
+<div id="header1" align="center">
+  
+  ![badge](https://top-badge.vercel.app/egypt/3bsalam-1?category=commits&label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
+  <img src="https://komarev.com/ghpvc/?username=3bsalam-1&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
+  ![](https://hit.yhype.me/github/profile?user_id=121203923)
+</div>
+<div id="view" align="center">
 
-```csharp
-Rapli@NyarchLinux
----------------------------------------------------
-Username: Rafi Aditya.
-OS: Nyarch Linux
-Shell: zsh 5.9
-Languages: JavaScript, Java, Android, Kotlin, Python
-Terminal: Sway
-CPU: Intel i5-2400 (4) @ 3.092GHz
-GPU: AMD/ATI Radeon RX570
-Memory : 303MiB / 16384MiB
-Telegram: @ErOneSoul.
-Learning : Android, Kotlin, JavaScript, C, C++.
-Hobbies: Watching Anime, Music, and Android Modification.
-Girlfriend: Zero Two, Rias, Akeno, And Alya Also Asuka And Mari Makinami ❤️.
-
-```
-```zsh
-➜ My Stats LOL
-```
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=435&lines=AI+%2F+Machine+Learning+Engineer;Data+Scientist;Deep+Learning+Enthusiast;Python+Developer)](https://git.io/typing-svg)
+<h1>
+  Hi.I'M Iqbal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 </div>
 
-<img align="right" src="https://gh-readme-profile.vercel.app/api?username=RapliVx&theme=transparent" />
+### :fire: My Stats :
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=3bsalam-1&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/3bsalam-1?tab=repositories)
+  
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3bsalam-1&exclude_days=Mon%2CTue%2CSat&theme=github-dark-dimmed&hide_border=true&stroke=EBEBEB00&date_format=j%20M%5B%20Y%5D&background=EB545400&excludeDaysLabel=EB545400)](https://github.com/3bsalam-1?tab=repositories)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bsalam-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/3bsalam-1?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
-
-### Hi, I'm Rapli 👋 
-- 🌱 I’m learning Android~
-- 🏠 I'm a RPL school student Like IT of indonesia 
-- A staunch Karbits
-- "My hobby is watching anime"
-- "I like My Waifu"
-
-### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2022.04.4-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-14/)
-
-### 📱 Devices Support
-![SDM845](https://img.shields.io/badge/Xiaomi%20SDM845-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SM7150-AB](https://img.shields.io/badge/Xiaomi%20SM7150AB-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SM6225](https://img.shields.io/badge/Xiaomi%20SM6225-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![SDM660](https://img.shields.io/badge/Xiaomi%20SDM660-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![MI8953](https://img.shields.io/badge/Xiaomi%20MSM8953-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-![MSM8937](https://img.shields.io/badge/Xiaomi%20MSM8937-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)
-
-<div align="center"> 
-    
-### Hi Everyone
-<img src=https://moe-counter.es3n1n.eu/get/@raplivx width="500px" />
-
-</div>
-
-<br>
-
-### 😭 Ibukiii
-<a>
-<img align="center" width="800" src="https://github.com/user-attachments/assets/fc5d7093-2f4a-487b-ad02-c27edfface62">
-<a/>
-
-</div>
-
-<br>
-
-# **📫 Contacts**
-<a>**Please Contact me on Telegram for a quick response** [Rapli](https://t.me/ErOneSoul)
-<img align="left" width="100" src="https://github.com/user-attachments/assets/d34d2262-b22f-4ffd-8a3f-42ffcc2c1dcf">
-If you didn't get response by me, so don't worry. I'll try to reply your response.
-</a>
-</div>
-
-<br>
+---
+ 
+![My GitHub Game](assets/space_shooter.gif)
