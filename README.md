@@ -20,6 +20,6 @@
 
 <div id="stats" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=Android+Kernel+Developer;Building+kernel+for+Samsung+A23;KernelSU+%7C+LTO+%7C+Clang+Optimization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=Android+Kernel+Developer;Building+kernel+for+Samsung+A23)](https://git.io/typing-svg)
 
 </div>
