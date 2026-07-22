@@ -13,12 +13,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo"/>
 </a>
 
-
-
-</div>
-
 <div id="stats" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=Android+Kernel+Developer;Building+kernel+for+Samsung+A23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&vCenter=true&height=100&width=700&lines=Android+Kernel+Developer;Building+kernel+for+Samsung+A23)](https://git.io/typing-svg)
 
 </div>
