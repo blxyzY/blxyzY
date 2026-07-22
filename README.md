@@ -1,78 +1,71 @@
-<p align="center">
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="400" />
-</p>
+</div>
 
-<h1 align="center">Hi 👋, I'm xlvy</h1>
-<h3 align="center">Android Kernel Developer | Custom ROM Enthusiast</h3>
+<div id="badges" align="center">
+  
+### 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blxyzY&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/blxyzY?label=Follow&style=social" />
-</p>
+<a href="https://t.me/xlvyprjkt" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram logo"/>
+</a>
+<a href="https://github.com/blxyzY" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="github logo"/>
+</a>
+<a href="https://x.com/xlvyprjkt" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40" alt="twitter logo"/>
+</a>
 
----
+</div>
 
-## 🦖 About Me
+<div id="stats" align="center">
 
-- 🔭 Working on **Samsung Exynos 850 Kernel**
-- 🌱 Learning **KernelSU & LTO Optimization**
-- 💬 Ask me about **Kernel building, Clang, AnyKernel3**
+![badge](https://komarev.com/ghpvc/?username=blxyzY&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true)
+![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
----
+</div>
 
-## 📱 Devices
+<div id="typing" align="center">
 
-| Device | Codename | Status |
-|--------|----------|--------|
-| Samsung Galaxy A23 5G | a23q | ✅ Active |
-| Samsung Galaxy A23 | a23 | ✅ Active |
-| Samsung Galaxy A22 | a22x | ✅ Active |
-
----
-
-## 📦 Projects
-
-### 🔧 [build_kernel](https://github.com/blxyzY/build_kernel)
-GitHub Actions workflow for building Android kernels with AnyKernel3 support.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=2388F7&center=true&width=700&lines=Android+Kernel+Developer+%7C+Custom+ROM+Enthusiast;Building+kernels+for+Samsung+Devices;KernelSU+%7C+LTO+%7C+Clang+Optimization)](https://git.io/typing-svg)
 
 ---
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blxyzY&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blxyzY&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="left">
 
----
+```bash
 
-## 🦖 Chrome Dino Running!
+### 👨‍💻 About Me :
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="400" />
-</p>
+- **Name**: xlvy
+- **Role**: Android Kernel Developer
+- **Country**: 🏡 Indonesia
+- **Fun Fact**: I love Chrome Dino 🦖
 
----
+### 🚀 **Currently Working On**
+- 🔧 Samsung Exynos 850 Kernel Development
+- 📱 KernelSU Integration
+- ⚡ LTO & Clang Optimization
+- 🐚 Bash Scripting for Automation
 
-## 📫 Connect
+### 🛠️ **Skills**
+- 🐧 Linux Kernel Development
+- 📱 Android Custom ROMs
+- 🖥️ Bash & Shell Scripting
+- 🔧 GitHub Actions CI/CD
 
-<p align="center">
-  <a href="https://t.me/xlvyprjkt">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/blxyzY">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 📦 **Projects**
+- 🔧 [build_kernel](https://github.com/blxyzY/build_kernel) - GitHub Actions workflow for building Android kernels
+- 🐧 Samsung Kernel Projects
 
----
+### 🤔 **Ask Me About**
+- 💻 Kernel Building
+- 🛠️ Clang Toolchains
+- 📱 Android Development
+- 🐧 Linux Systems
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="80" />
-  <br />
-  <i>"Keep coding, keep learning, keep growing!"</i>
-  <br />
-  <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="80" />
-</p>
-
-⭐️ From [blxyzY](https://github.com/blxyzY)
+### 🦖 Fun Ending:
+👋 Thanks for stopping by!  
+P.S. The kernel is more stable than my sleep schedule.
