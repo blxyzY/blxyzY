@@ -29,5 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3bsalam-1&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/3bsalam-1?tab=repositories) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
- 
+
+<!--![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)-->
 ![My GitHub Game](assets/space_shooter.gif)
