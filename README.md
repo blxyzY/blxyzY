@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/blxyzY/blxyzY/main/assets/chrome-dino.gif" width="400" />
 </div>
 
-<h1 align="center">Hi 👋, I'm xlvy</h1>
+<h1 align="center">Hi 👋, I'm iqbal</h1>
 
 <div id="badges" align="center">
   
