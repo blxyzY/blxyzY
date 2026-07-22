@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm xlvy</h1>
-<h3 align="center">Android Kernel Developer | Custom ROM Enthusiast</h3>
 
 <div id="badges" align="center">
   
