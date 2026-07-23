@@ -30,8 +30,5 @@
 
 ---
 
-<!--![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)-->
-![My GitHub Game](assets/space_shooter.gif)
-
-
 ![snake gif](https://github.com/3bsalam-1/3bsalam-1/blob/output/github-contribution-grid-snake-dark.svg)
+
